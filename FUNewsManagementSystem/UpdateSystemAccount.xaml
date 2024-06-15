@@ -1,0 +1,36 @@
+﻿<Window x:Class="FUNewsManagementSystem.UpdateSystemAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FUNewsManagementSystem"
+        mc:Ignorable="d"
+        Title="UpdateSystemAccount" Height="500" Width="850">
+    <Grid Loaded="Window_Loaded">
+        <Label x:Name="label" Content="FU News  Account Management" FontSize="36" HorizontalAlignment="Left" Width="568" Margin="132,0,0,383"/>
+
+
+        <Label x:Name="label1"  Content="Account ID" Margin="5,73,568,329" />
+        <TextBox x:Name="txtAccountID" Margin ="133,68,9,370" Text="{}" TextWrapping="Wrap" IsEnabled="False" />
+
+
+        <Label x:Name="label2" Content="Account Name" Margin="8,124,579,254" />
+        <TextBox x:Name="txtAccountName" Text="" TextWrapping="Wrap" Margin="133,124,9,311" />
+
+
+        <Label x:Name="label8" Content="Account Email" Margin="12,178,586,210" />
+        <TextBox x:Name="txtAccountEmail" Text="" TextWrapping="Wrap" Margin="133,185,9,258" />
+
+
+        <Label x:Name="label3"  Content="Account Role" Margin="12,234,583,151"/>
+        <ComboBox x:Name="cboAccountRole" Text=""  Margin="133,234,9,200"/>
+
+
+        <Label x:Name="label4"  Content="Account Password" Grid.Column="0" Margin="6,304,567,94" />
+        <PasswordBox x:Name="txtAccountPassword" Margin="133,295,9,137" />
+
+
+        <Button Content="Save" x:Name="btnSave" Background="Purple" Foreground="White" HorizontalAlignment="Left" Height="58" Margin="124,382,0,0" VerticalAlignment="Top" Width="140" Click="btnSave_Click"/>
+        <Button Content="Close" x:Name="btnClose" Background="CornflowerBlue" Foreground="White" HorizontalAlignment="Left" Height="58" Margin="581,381,0,0"  VerticalAlignment="Top" Width="140" Click="btnClose_Click"/>
+    </Grid>
+</Window>

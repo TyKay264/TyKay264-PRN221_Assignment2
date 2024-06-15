@@ -1,0 +1,71 @@
+﻿@page
+@model PhanThanhKhai_RazorPage.Pages.SystemAccounts.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<form method="get">
+    <div class="form-action no-clor">
+        <p>
+            Find the System Account names:
+            <input type="text" name="SearchString" value="@Model.SearchString" />
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <a asp-page="./Index">Back to full list</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountRole)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountPassword)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.SystemAccount) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountEmail)
+            </td>
+            <td>
+                    @{
+                        var roleDisplay = item.AccountRole == 1 ? "Staff" : item.AccountRole == 2 ? "Lecture" : "Unknown";
+                    }
+                    @roleDisplay
+            </td>
+            <td>
+                    @{
+                        var passwordLength = item.AccountPassword.Length;
+                        var maskedPassword = new string('*', passwordLength);
+                    }
+                    @maskedPassword
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.AccountId">Edit</a> |
+                @* <a asp-page="./Details" asp-route-id="@item.AccountId">Details</a> | *@
+                <a asp-page="./Delete" asp-route-id="@item.AccountId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

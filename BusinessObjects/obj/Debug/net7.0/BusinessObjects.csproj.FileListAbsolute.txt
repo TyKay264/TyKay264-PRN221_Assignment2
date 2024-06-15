@@ -1,0 +1,29 @@
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\bin\Debug\net7.0\BusinessObjects.deps.json
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\bin\Debug\net7.0\BusinessObjects.runtimeconfig.json
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\bin\Debug\net7.0\BusinessObjects.dll
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\bin\Debug\net7.0\BusinessObjects.pdb
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfo.cs
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.dll
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\refint\BusinessObjects.dll
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.pdb
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.genruntimeconfig.cache
+D:\Learning FPT\Kì_7\SWD392\FUNewsManagementSystemSolution\BusinessObjects\obj\Debug\net7.0\ref\BusinessObjects.dll
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\bin\Debug\net7.0\BusinessObjects.deps.json
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\bin\Debug\net7.0\BusinessObjects.runtimeconfig.json
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\bin\Debug\net7.0\BusinessObjects.dll
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\bin\Debug\net7.0\BusinessObjects.pdb
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfo.cs
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.sourcelink.json
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.dll
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\refint\BusinessObjects.dll
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.pdb
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\BusinessObjects.genruntimeconfig.cache
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\BusinessObjects\obj\Debug\net7.0\ref\BusinessObjects.dll

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PhanThanhKhai_RazorPage
+build_property.RootNamespace = PhanThanhKhai_RazorPage
+build_property.ProjectDir = D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\PhanThanhKhai_RazorPage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\PhanThanhKhai_RazorPage
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/NewsArticles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/NewsArticles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/NewsArticles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/NewsArticles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/NewsArticles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Learning FPT/Kì_7/PRN221/Project/Phan Thanh Khải_NET1709_SE173240/PRN221_Assignment1/PhanThanhKhai_RazorPage/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-micnxzlx5w

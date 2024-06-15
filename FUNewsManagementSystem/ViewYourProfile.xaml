@@ -1,0 +1,39 @@
+﻿<Window x:Class="FUNewsManagementSystem.ViewYourProfile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FUNewsManagementSystem"
+        mc:Ignorable="d"
+        Title="ViewYourProfile" Height="450" Width="800">
+    <Grid Loaded="Window_Loaded">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#0099FF" Offset="0"/>
+                <GradientStop Color="#FF347BDA" Offset="0.794"/>
+                <GradientStop Color="#FF60B1E7" Offset="1"/>
+                <GradientStop Color="#FF596FDD" Offset="0.309"/>
+                <GradientStop Color="#FF472FDE" Offset="0.484"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label x:Name="label" Content="FU Account Management" Grid.Row="0" FontSize="36" HorizontalAlignment="Center" Width="432" Margin="0,-13,0,372"/>
+
+            <Label x:Name="label1" Margin ="34,44,647,329"  Content="Account ID" />
+            <TextBox x:Name="txtAccountID" Margin ="200,44,26,349" Text="{}" TextWrapping="Wrap" IsEnabled="False" />
+
+            <Label x:Name="label2" Margin ="34,86,665,288" Content="Account Name" RenderTransformOrigin="0.534,0.743" />
+            <TextBox x:Name="txtAccountName" Margin ="201,85,26,303" Text="" TextWrapping="Wrap" />
+
+            <Label x:Name="label8" Margin ="34,146,647,231" Content="Account Email" />
+            <TextBox x:Name="txtAccountEmail"  Margin ="201,136,24,241" Text="" TextWrapping="Wrap" />
+
+            <Label x:Name="label3" Margin ="34,203,647,183" Content="Account Role" />
+            <ComboBox x:Name="cboAccountRole" Margin ="201,198,26,183"  Text="" IsEnabled="False" />
+
+            <Label x:Name="label4" Margin ="34,256,627,124" Content="Account Password" RenderTransformOrigin="0.417,0.513"/>
+            <PasswordBox x:Name="txtAccountPassword" Margin ="201,256,24,124" />
+
+            <Button Content="Save" x:Name="btnSave" HorizontalAlignment="Left" Height="80" Margin="86,329,0,0" VerticalAlignment="Top" Width="164" Click="btnSave_Click"/>
+            <Button Content="Close" x:Name="btnClose" HorizontalAlignment="Left" Height="80" Margin="522,329,0,0" VerticalAlignment="Top" Width="164" Click="btnClose_Click"/>
+        </Grid>
+</Window>

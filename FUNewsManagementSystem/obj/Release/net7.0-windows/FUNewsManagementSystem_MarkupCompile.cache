@@ -1,0 +1,20 @@
+﻿FUNewsManagementSystem
+
+
+winexe
+C#
+.cs
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\FUNewsManagementSystem\obj\Release\net7.0-windows\
+FUNewsManagementSystem
+none
+false
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
+D:\Learning FPT\Kì_7\PRN221\Project\Phan Thanh Khải_NET1709_SE173240\PRN221_Assignment1\FUNewsManagementSystem\App.xaml
+18759470058
+
+201577733538
+248-1053041024
+AccountManagement.xaml;AdminMenu.xaml;CategoryList.xaml;CreateCategory.xaml;CreateNewsArticleWindow.xaml;CreateSystemAccount.xaml;CreateTag.xaml;Login.xaml;MainMenu.xaml;MainWindow.xaml;Report.xaml;TagList.xaml;UpdateCategory.xaml;UpdateNewsArticle.xaml;UpdateSystemAccount.xaml;UpdateTag.xaml;ViewHistoryCreated.xaml;ViewYourProfile.xaml;
+
+True
+
